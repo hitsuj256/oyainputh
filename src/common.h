@@ -149,7 +149,59 @@
 #define MOJI_RKAGI 129
 #define MOJI_ELLIPSIS 130
 #define MOJI_NAKAGURO 131
-#define MOJI_MAX 131 // last index
+// ùXâπägí£
+#define MOJI_KYA 132
+#define MOJI_KYU 133
+#define MOJI_KYO 134
+#define MOJI_SYA 135
+#define MOJI_SYU 136
+#define MOJI_SYO 137
+#define MOJI_TYA 138
+#define MOJI_TYU 139
+#define MOJI_TYO 140
+#define MOJI_NYA 141
+#define MOJI_NYU 142
+#define MOJI_NYO 143
+#define MOJI_HYA 144
+#define MOJI_HYU 145
+#define MOJI_HYO 146
+#define MOJI_MYA 147
+#define MOJI_MYU 148
+#define MOJI_MYO 149
+#define MOJI_RYA 150
+#define MOJI_RYU 151
+#define MOJI_RYO 152
+#define MOJI_GYA 153
+#define MOJI_GYU 154
+#define MOJI_GYO 155
+#define MOJI_JA  156
+#define MOJI_JU  157
+#define MOJI_JO  158
+#define MOJI_DYA 159
+#define MOJI_DYU 160
+#define MOJI_DYO 161
+#define MOJI_BYA 162
+#define MOJI_BYU 163
+#define MOJI_BYO 164
+#define MOJI_PYA 165
+#define MOJI_PYU 166
+#define MOJI_PYO 167
+#define MOJI_SHE 168
+#define MOJI_TYE 169
+#define MOJI_JE  170
+#define MOJI_DYE 171
+#define MOJI_THI 172
+#define MOJI_DHI 173
+#define MOJI_THU 174
+#define MOJI_DHU 175
+#define MOJI_FA  176
+#define MOJI_FI  177
+#define MOJI_FYU 178
+#define MOJI_FE  179
+#define MOJI_FO  180
+#define MOJI_WHO  181
+
+#define MOJI_MAX 181 // last index
 
 // Oyayubi State
 #define STATE_FIRST 1

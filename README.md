@@ -1,3 +1,5 @@
+version 1.9.3
+
 # oyainput
 software to emulate Japanese thum shift keyboard (oyayubi-shift keyboard)
 
@@ -27,5 +29,4 @@ Note. You must be able to run sudo, or need to be root with su command.
 # Configure
 Conig file is made on first run.   
 location is  `(Home Dir)/.oyainputconf`
-
 
