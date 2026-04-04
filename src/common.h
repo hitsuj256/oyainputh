@@ -149,7 +149,7 @@
 #define MOJI_RKAGI 129
 #define MOJI_ELLIPSIS 130
 #define MOJI_NAKAGURO 131
-// ùXâπägí£
+
 #define MOJI_KYA 132
 #define MOJI_KYU 133
 #define MOJI_KYO 134
