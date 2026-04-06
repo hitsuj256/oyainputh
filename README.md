@@ -1,4 +1,4 @@
-version 1.9.3
+version 1.9.4
 
 # oyainput
 software to emulate Japanese thum shift keyboard (oyayubi-shift keyboard)
