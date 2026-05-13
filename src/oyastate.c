@@ -100,9 +100,9 @@ KEYMAP_INFO oyakanaDTableRomajiDefault[] = {
 
 	// 中段 
 	{KEY_H, MOJI_A},
-	{KEY_J, MOJI_RE},
+	{KEY_J, MOJI_RI},
 	{KEY_K, MOJI_KU},
-	{KEY_L, MOJI_RI},
+	{KEY_L, MOJI_RE},
 	{KEY_SEMICOLON, MOJI_ME},
 
 	// 下段  
@@ -201,12 +201,12 @@ KEYMAP_INFO oyakanaS_TableRomajiDefault[] = {
 	{KEY_O, MOJI_NYA},
 	{KEY_P, MOJI_PYA},
 	{KEY_H, MOJI_BYA},
-	{KEY_J, MOJI_JA},
+	{KEY_J, MOJI_RYA},
 	{KEY_K, MOJI_YA},
 	{KEY_L, MOJI_SYA},
 	{KEY_SEMICOLON, MOJI_XYA},
 	{KEY_N, MOJI_GYA},
-	{KEY_M, MOJI_RYA},
+	{KEY_M, MOJI_JA},
 	{KEY_DOT, MOJI_TYA},
 	{KEY_SLASH, MOJI_MYA},
 	{KEY_SPACE, MOJI_DA}
@@ -222,13 +222,13 @@ KEYMAP_INFO oyakanaZ_TableRomajiDefault[] = {
 	{KEY_O, MOJI_NYU},
 	{KEY_P, MOJI_PYU},
 	{KEY_H, MOJI_BYU},
-	{KEY_J, MOJI_JU},
+	{KEY_J, MOJI_RYU},
 	{KEY_K, MOJI_YU},
 	{KEY_L, MOJI_SYU},
 	{KEY_SEMICOLON, MOJI_XYU},
 	{KEY_C, MOJI_FYU},
 	{KEY_N, MOJI_GYU},
-	{KEY_M, MOJI_RYU},
+	{KEY_M, MOJI_JU},
 	{KEY_DOT, MOJI_TYU},
 	{KEY_SLASH, MOJI_MYU}
 };
@@ -241,12 +241,12 @@ KEYMAP_INFO oyakanaE_TableRomajiDefault[] = {
 	{KEY_O, MOJI_NYO},
 	{KEY_P, MOJI_PYO},
 	{KEY_H, MOJI_BYO},
-	{KEY_J, MOJI_JO},
+	{KEY_J, MOJI_RYO},
 	{KEY_K, MOJI_YO},
 	{KEY_L, MOJI_SYO},
 	{KEY_SEMICOLON, MOJI_XYO},
 	{KEY_N, MOJI_GYO},
-	{KEY_M, MOJI_RYO},
+	{KEY_M, MOJI_JO},
 	{KEY_COMMA, MOJI_THI},
 	{KEY_DOT, MOJI_TYO},
 	{KEY_SLASH, MOJI_MYO},
@@ -278,9 +278,9 @@ KEYMAP_INFO oyakanaO_TableRomajiDefault[] = {
 	{KEY_A, MOJI_XE},
 	{KEY_D, MOJI_E},
 	{KEY_F, MOJI_WE},
-	{KEY_J, MOJI_JE},
 	{KEY_K, MOJI_YE},
-	{KEY_C, MOJI_FE}
+	{KEY_C, MOJI_FE},
+	{KEY_M, MOJI_JE}
 };
 
 // M 配列定義
