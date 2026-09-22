@@ -34,7 +34,7 @@ KEYMAP_INFO oyakanaTableRomajiDefault[] = {
 	{KEY_U, MOJI_HI},
 	{KEY_I, MOJI_NO},
 	{KEY_O, MOJI_NI},
-	{KEY_P, MOJI_UNDEF},
+	{KEY_P, MOJI_PU},
 	{KEY_LEFTBRACE, MOJI_COMMA},
 
 	// 中段 
@@ -130,7 +130,6 @@ KEYMAP_INFO oyakanaSCTableRomajiDefault[] = {
 
 	// 下段 
 	{KEY_Z, MOJI_XYU},
-	{KEY_C, MOJI_PU},
 
 	{KEY_SPACE, MOJI_DO}
 };
@@ -195,18 +194,13 @@ KEYMAP_INFO oyakanaSPTableRomajiDefault[] = {
 
 // S 配列定義
 KEYMAP_INFO oyakanaS_TableRomajiDefault[] = {
-	{KEY_Y, MOJI_DYA},
 	{KEY_U, MOJI_HYA},
 	{KEY_I, MOJI_KYA},
 	{KEY_O, MOJI_NYA},
-	{KEY_P, MOJI_PYA},
-	{KEY_H, MOJI_BYA},
 	{KEY_J, MOJI_RYA},
 	{KEY_K, MOJI_YA},
 	{KEY_L, MOJI_SYA},
 	{KEY_SEMICOLON, MOJI_XYA},
-	{KEY_N, MOJI_GYA},
-	{KEY_M, MOJI_JA},
 	{KEY_DOT, MOJI_TYA},
 	{KEY_SLASH, MOJI_MYA},
 	{KEY_SPACE, MOJI_DA}
@@ -214,39 +208,28 @@ KEYMAP_INFO oyakanaS_TableRomajiDefault[] = {
 
 // Z 配列定義
 KEYMAP_INFO oyakanaZ_TableRomajiDefault[] = {
-	{KEY_W, MOJI_DHU},
 	{KEY_E, MOJI_THU},
-	{KEY_Y, MOJI_DYU},
 	{KEY_U, MOJI_HYU},
 	{KEY_I, MOJI_KYU},
 	{KEY_O, MOJI_NYU},
-	{KEY_P, MOJI_PYU},
-	{KEY_H, MOJI_BYU},
 	{KEY_J, MOJI_RYU},
 	{KEY_K, MOJI_YU},
 	{KEY_L, MOJI_SYU},
 	{KEY_SEMICOLON, MOJI_XYU},
 	{KEY_C, MOJI_FYU},
-	{KEY_N, MOJI_GYU},
-	{KEY_M, MOJI_JU},
 	{KEY_DOT, MOJI_TYU},
 	{KEY_SLASH, MOJI_MYU}
 };
 
 // E 配列定義
 KEYMAP_INFO oyakanaE_TableRomajiDefault[] = {
-	{KEY_Y, MOJI_DYO},
 	{KEY_U, MOJI_HYO},
 	{KEY_I, MOJI_KYO},
 	{KEY_O, MOJI_NYO},
-	{KEY_P, MOJI_PYO},
-	{KEY_H, MOJI_BYO},
 	{KEY_J, MOJI_RYO},
 	{KEY_K, MOJI_YO},
 	{KEY_L, MOJI_SYO},
 	{KEY_SEMICOLON, MOJI_XYO},
-	{KEY_N, MOJI_GYO},
-	{KEY_M, MOJI_JO},
 	{KEY_COMMA, MOJI_THI},
 	{KEY_DOT, MOJI_TYO},
 	{KEY_SLASH, MOJI_MYO},
@@ -265,7 +248,6 @@ KEYMAP_INFO oyakanaH_TableRomajiDefault[] = {
 KEYMAP_INFO oyakanaCOM_TableRomajiDefault[] = {
 	{KEY_A, MOJI_XWA},
 	{KEY_D, MOJI_WA},
-	{KEY_W, MOJI_DHI},
 	{KEY_E, MOJI_THI},
 	{KEY_F, MOJI_WI},
 	{KEY_C, MOJI_FI},
@@ -274,13 +256,11 @@ KEYMAP_INFO oyakanaCOM_TableRomajiDefault[] = {
 
 // O 配列定義
 KEYMAP_INFO oyakanaO_TableRomajiDefault[] = {
-	{KEY_Y, MOJI_DYE},
 	{KEY_A, MOJI_XE},
 	{KEY_D, MOJI_E},
 	{KEY_F, MOJI_WE},
 	{KEY_K, MOJI_YE},
-	{KEY_C, MOJI_FE},
-	{KEY_M, MOJI_JE}
+	{KEY_C, MOJI_FE}
 };
 
 // M 配列定義
